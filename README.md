@@ -1,80 +1,61 @@
-# Amazon Clone – Dynamic E-Commerce Web Application
+# Amazon Clone – E-Commerce Web Page
 
 ## Project Overview
 
-This project is a **dynamic e-commerce web application** developed as part of **Assignment 3**.
-The website is inspired by the popular online shopping platform **Amazon** and replicates some of its basic design and functionality.
+This project is a **static e-commerce web page** developed as part of **Assignment 3**. The website is inspired by the design of Amazon and recreates a basic **online shopping interface** using only **HTML and CSS**.
 
-The goal of this project is to demonstrate how **HTML, CSS, JavaScript, and Bootstrap** can be used together to build a responsive and interactive online shopping interface.
-
----
+The aim of this project is to practice building a structured and visually appealing web page that resembles a real-world e-commerce platform.
 
 ## Objective
 
-The main objectives of this assignment are:
+The objectives of this assignment are:
 
-* To design a **dynamic web application interface**
-* To implement an **e-commerce style layout**
-* To practice **front-end web development using HTML, CSS, and JavaScript**
-* To use **Bootstrap CDN** for responsive design and UI components
-
----
+* To design a basic **e-commerce website layout**
+* To practice **HTML for structuring web pages**
+* To use **CSS for styling and layout design**
+* To understand how real-world websites organize product sections and navigation
 
 ## Technologies Used
 
-* **HTML5** – Structure of the web pages
-* **CSS3** – Styling and layout
-* **JavaScript** – Dynamic functionality and interactivity
-* **Bootstrap (CDN)** – Responsive design and UI components
-
----
+* **HTML5** – Used to create the structure and content of the web page
+* **CSS3** – Used for styling, layout, and visual design
 
 ## Features
 
-* Responsive homepage layout
-* Product listing section
 * Navigation bar similar to an e-commerce website
-* Product cards with images, titles, and prices
-* Hover effects and interactive UI elements
-* Responsive design using Bootstrap
-* Organized layout similar to an online shopping platform
-
----
+* Product sections displaying different categories
+* Product cards with images and descriptions
+* Clean and organized layout
+* Basic styling using CSS
+* Amazon-inspired design
 
 ## Project Structure
 
 ```
 amazon-clone/
 │
-├── index.html        # Main homepage
-├── style.css         # Custom CSS styling
-├── script.js         # JavaScript for dynamic functionality
-└── README.md         # Project documentation
+├── index.html      # Main webpage
+├── style.css       # Styling file
+└── README.md       # Project documentation
 ```
-
----
 
 ## How to Run the Project
 
-1. Download or clone the project repository.
+1. Download or clone the project files.
 2. Open the project folder.
-3. Open **index.html** in any web browser.
+3. Open the **index.html** file in any web browser.
 
-The webpage will load the **Amazon-style e-commerce interface** with responsive design.
-
----
+The webpage will display a **static Amazon-style e-commerce interface**.
 
 ## Learning Outcomes
 
 Through this project, I learned:
 
-* How to design **responsive web layouts**
-* How to structure **e-commerce style web pages**
-* How to use **Bootstrap CDN** for faster UI development
-* How to add **basic dynamic behavior using JavaScript**
-
----
+* How to structure webpages using **HTML**
+* How to design layouts using **CSS**
+* How to build a **real-world style webpage interface**
+* Basic concepts of **front-end web development**
 
 ## Conclusion
 
-This project demonstrates the creation of a **dynamic e-commerce website interface** inspired by Amazon using modern web development technologies. It helps build practical knowledge of front-end development and responsive design.
+This project demonstrates the creation of a **simple Amazon-inspired e-commerce webpage** using HTML and CSS. It helped in understanding webpage layout design and improving front-end development skills.
